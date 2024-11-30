@@ -1,0 +1,4 @@
+SpeechRecognition[whisper-local]
+pyaudio
+setuptools
+pyautogui
